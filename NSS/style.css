@@ -1,0 +1,40 @@
+body{
+    height: 100vh;
+    background-color: #3f4041;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 100vh; */
+}
+img{
+    height: 100px;
+    padding-bottom: 100px;
+
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+
+}
+
+input{
+    background-color: #3f4041;
+    margin: 10px 0;
+    border: unset;
+    border-radius:25px;
+    border:  solid 2px #c57428;
+
+}
+
+.bt{
+    width: 150px;
+
+}
+a{
+    color: #00a560;
+}
